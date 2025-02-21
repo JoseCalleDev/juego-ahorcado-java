@@ -337,7 +337,6 @@ public class Ahorcado extends javax.swing.JFrame {
         }
 
         isMute = !isPlaying;
-
     }
 
 

@@ -144,7 +144,7 @@ public class Inicio extends javax.swing.JFrame {
     private void jMenu2MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jMenu2MousePressed
         
         alternarSonido();
-
+        
     }//GEN-LAST:event_jMenu2MousePressed
 
     private void jMenu1MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jMenu1MousePressed
