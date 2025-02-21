@@ -171,7 +171,7 @@ public class Inicio extends javax.swing.JFrame {
         
           try {
 
-            String acercaDe = "https://github.com/JoseDev4";
+            String acercaDe = "https://github.com/JoseCalleDev";
 
             java.awt.Desktop.getDesktop().browse(java.net.URI.create(acercaDe));
 

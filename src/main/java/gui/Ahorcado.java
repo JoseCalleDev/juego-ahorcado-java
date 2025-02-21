@@ -289,7 +289,7 @@ public class Ahorcado extends javax.swing.JFrame {
         
         //palabras posibles para el juego
         String palabras[] = {"mesa", "casa", "perro", "zapato", "calle", "sol", "luna", "flor", "ciudad", "escuela", "gente",
-            "libro", "silla", "cama", "madre", "puerta", "amigo", "comida", "agua", "lluvia"};
+            "libro", "silla", "cama", "madre", "puerta", "amigo", "comida", "agua", "lluvia", "pelota", "rojo", "noche", "gato"};
 
         //sorteo de palabras
         Random palabraRandom = new Random();
